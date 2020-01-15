@@ -1,0 +1,1001 @@
+id,first_name,last_name,gender,mage
+1,Cody,Potell,Male,Eastern quoll
+2,Eliza,Andrejs,Female,"Waterbuck, common"
+3,Delinda,Search,Female,"Phascogale, red-tailed"
+4,Gothart,Tilliard,Male,"Starling, red-shouldered glossy"
+5,Melodee,Spinas,Female,"Stork, greater adjutant"
+6,Alisa,Andrewartha,Female,"Deer, red"
+7,Tonia,Doni,Female,Black-throated cardinal
+8,Robinet,Mance,Female,Great egret
+9,Cindy,Cramb,Female,European stork
+10,Bren,Timberlake,Female,Sulfur-crested cockatoo
+11,Melantha,Emmett,Female,Hawk-headed parrot
+12,Garland,Lumsdon,Female,White-lipped peccary
+13,Walsh,Matas,Male,"Capuchin, weeper"
+14,Lelia,Edgeley,Female,Thomson's gazelle
+15,Evaleen,Disdel,Female,"Otter, small-clawed"
+16,Idalia,Stote,Female,Pacific gull
+17,Marley,Kahn,Female,"Mongoose, banded"
+18,Archambault,Mills,Male,Long-billed cockatoo
+19,Caddric,Keenan,Male,Malabar squirrel
+20,Nikolas,Klossmann,Male,"Plover, blacksmith"
+21,Carmon,Easman,Female,Carmine bee-eater
+22,Leonardo,Casterot,Male,"Stork, greater adjutant"
+23,Lyda,Shutle,Female,"Monkey, rhesus"
+24,Dickie,Surmeir,Male,"Starling, greater blue-eared"
+25,Leicester,Purvis,Male,American woodcock
+26,Ashia,Saltern,Female,Carmine bee-eater
+27,Silas,Heathwood,Male,Brindled gnu
+28,Ferd,Doe,Male,"Colobus, white-mantled"
+29,Dominique,Cuttles,Male,"Fox, grey"
+30,Gabriel,Pughsley,Female,Red squirrel
+31,Hamish,Poytress,Male,"Tamandua, southern"
+32,Cy,Deaves,Male,"Dragon, frilled"
+33,Jillian,Haruard,Female,Red-tailed cockatoo
+34,Sophie,Feldhammer,Female,Golden eagle
+35,Christoffer,Clears,Male,Tarantula
+36,Iseabal,Khotler,Female,Burmese brown mountain tortoise
+37,Traver,Breens,Male,"Flamingo, greater"
+38,Ced,Wooderson,Male,Egyptian cobra
+39,Kean,Goodswen,Male,"Duiker, gray"
+40,Chip,Sebring,Male,"Deer, roe"
+41,Pavla,Godsmark,Female,Dassie
+42,Lillis,Wagge,Female,White-throated toucan
+43,Drud,Kilcoyne,Male,Olive baboon
+44,Sally,Laurentin,Female,"Darter, african"
+45,Joachim,Ochterlonie,Male,Galapagos hawk
+46,Glennis,Seifert,Female,"Grenadier, common"
+47,Latashia,Nuttall,Female,"Openbill, asian"
+48,Forrest,Restorick,Male,Emerald green tree boa
+49,Puff,Kupker,Male,"Hornbill, yellow-billed"
+50,Merle,Mundall,Female,"Squirrel, eurasian red"
+51,Grissel,Filipov,Female,Green-backed heron
+52,Lucita,Lauret,Female,Bottle-nose dolphin
+53,Luther,Collumbine,Male,"Goose, knob-nosed"
+54,Fanchette,Benedettini,Female,"Heron, goliath"
+55,Baron,Sore,Male,"Albatross, galapagos"
+56,Chryste,Jeannenet,Female,Cape raven
+57,Nadiya,Braiden,Female,"Penguin, magellanic"
+58,Lionello,Strathdee,Male,"Goose, greylag"
+59,Morena,Dallosso,Female,Red-capped cardinal
+60,Hally,Schlagtmans,Female,"Bat, madagascar fruit"
+61,Sampson,Twigger,Male,"Brocket, red"
+62,Donnajean,Lilburne,Female,"Duck, blue"
+63,Mady,Stilldale,Female,"Bandicoot, short-nosed"
+64,Sherman,Lightbown,Male,"Grouse, sage"
+65,Lauri,Shaxby,Female,African wild dog
+66,Thomasa,Belli,Female,"Pheasant, ring-necked"
+67,Benny,Lerner,Male,Fisher
+68,Nona,Barfield,Female,"Fox, pampa gray"
+69,Francis,Reinisch,Male,Brazilian tapir
+70,Dominic,Heinig,Male,"Bear, polar"
+71,Pate,Myring,Male,Alpaca
+72,Flinn,Smallshaw,Male,Snake-necked turtle
+73,Deborah,Formby,Female,Saddle-billed stork
+74,Emily,Futter,Female,"Barbet, black-collared"
+75,Ernst,Dennerley,Male,Jungle cat
+76,Pavlov,Newbury,Male,Yak
+77,Abelard,Sheryn,Male,Northern elephant seal
+78,Hagan,O Mullen,Male,"Otter, brazilian"
+79,Zita,Elmer,Female,Kirk's dik dik
+80,Pembroke,Najara,Male,"Kangaroo, jungle"
+81,Amelita,Trunchion,Female,Yellow-throated sandgrouse
+82,Rhys,Castle,Male,Eagle owl (unidentified)
+83,Madalena,Baythrop,Female,"Starling, cape"
+84,Johnathon,Jewes,Male,"Skimmer, four-spotted"
+85,Sigfried,Placido,Male,"Shrike, crimson-breasted"
+86,Galvan,Yewman,Male,"Anteater, australian spiny"
+87,Cordie,Kemme,Female,Carmine bee-eater
+88,Davis,Antuk,Male,Eurasian beaver
+89,Tomasine,Mc Grath,Female,Pied avocet
+90,Ethelred,Manchester,Male,Black and white colobus
+91,Koralle,Edson,Female,"Heron, goliath"
+92,Shayna,Sakins,Female,"Flicker, campo"
+93,Broderic,Sandwick,Male,Red kangaroo
+94,Diane,Dowe,Female,Galapagos penguin
+95,Taber,Harbin,Male,Red-capped cardinal
+96,Clemens,Croydon,Male,"Gull, dusky"
+97,Chariot,John,Male,Black-footed ferret
+98,Silvanus,Bruinsma,Male,"Racer, blue"
+99,Karla,Lisle,Female,American bison
+100,Wain,Elphee,Male,Egyptian viper
+101,Lazaro,Bachman,Male,Greater kudu
+102,Malvin,Heeron,Male,"Sloth, pale-throated three-toed"
+103,Deonne,Skipper,Female,Yellow-crowned night heron
+104,Modestine,MacKeever,Female,Snowy egret
+105,Denys,Munton,Male,Common green iguana
+106,Joan,Garnsworth,Female,"Hornbill, yellow-billed"
+107,Madeline,Wychard,Female,"Squirrel, eurasian red"
+108,Marleah,De Vries,Female,Western palm tanager (unidentified)
+109,Coriss,Pinkstone,Female,Cougar
+110,Ade,O'Neal,Male,Malachite kingfisher
+111,Leese,MacNeill,Female,Desert kangaroo rat
+112,Renault,Edes,Male,"Plover, blacksmith"
+113,Joel,Dorwood,Male,"Sheathbill, snowy"
+114,Felice,Norgan,Female,Small-clawed otter
+115,Hope,Scorer,Female,Lesser masked weaver
+116,Ozzie,Augustus,Male,Eastern dwarf mongoose
+117,Hewie,Marieton,Male,"Stork, white-necked"
+118,Danny,Sives,Male,"Hawk, red-tailed"
+119,Falito,Farriar,Male,Snowy sheathbill
+120,Sammy,Roots,Male,"Pelican, australian"
+121,Donavon,Maudlin,Male,"Kangaroo, red"
+122,Berk,McMurrugh,Male,Radiated tortoise
+123,Ulises,Extal,Male,"Wagtail, african pied"
+124,Pattin,Troup,Male,Steenbuck
+125,Mellisa,Faulkener,Female,Blue-faced booby
+126,Fin,Brisard,Male,"Jackal, golden"
+127,Wells,Tillerton,Male,Yellow-headed caracara
+128,Emilee,Bascomb,Female,Blue fox
+129,Bride,Kildale,Female,Southern screamer
+130,Tobi,Lias,Female,"Kite, black"
+131,Dalt,Lombardo,Male,Ground legaan
+132,Franchot,Bowlands,Male,Beisa oryx
+133,Becki,Jedryka,Female,"Shark, blue"
+134,Somerset,Saph,Male,Campo flicker
+135,Gorden,Gladding,Male,Western bearded dragon
+136,Celine,Sprigg,Female,Coke's hartebeest
+137,Geoffrey,Pascall,Male,Cape Barren goose
+138,Dulcine,Bonus,Female,"Rattlesnake, horned"
+139,Skip,Emmanuele,Male,"Tinamou, elegant crested"
+140,Steffie,Vischi,Female,Pied crow
+141,Hazel,Ostler,Male,"Bushbaby, large-eared"
+142,Brooke,Hebbron,Male,Mexican beaded lizard
+143,Krystalle,Townby,Female,African buffalo
+144,Theo,Wooddisse,Male,Red deer
+145,Culver,Lyngsted,Male,"Bulbul, black-fronted"
+146,Ronnie,Crossfeld,Male,"Kangaroo, red"
+147,Eldredge,Arendt,Male,"Hen, sage"
+148,Winne,Rudge,Female,Western spotted skunk
+149,Arlen,Dank,Female,Savanna fox
+150,Morgen,Gentil,Male,"Ibis, glossy"
+151,Tyrus,Dullingham,Male,Green-backed heron
+152,Philis,Blucher,Female,Platypus
+153,Shandie,Goosey,Female,"Cat, miner's"
+154,Colly,Moreman,Female,"Fox, savanna"
+155,Manny,Mathivet,Male,"Hornbill, yellow-billed"
+156,Norrie,Aslam,Male,Azara's zorro
+157,Archibold,McOrkil,Male,"Bear, black"
+158,Harrie,Herrieven,Female,Urial
+159,Ginelle,Demageard,Female,Australian magpie
+160,Obie,Sparling,Male,"Cat, ringtail"
+161,Mollee,Shervington,Female,"Mongoose, eastern dwarf"
+162,Hadrian,Saleway,Male,Suricate
+163,Jarrett,Sitch,Male,"Glider, squirrel"
+164,Emmey,Kermon,Female,Eurasian hoopoe
+165,Mindy,Cowburn,Female,Cereopsis goose
+166,Jemmy,Abramowitz,Female,Golden-mantled ground squirrel
+167,Vaughn,Grady,Male,"Albatross, galapagos"
+168,Alysa,Goodbourn,Female,Cottonmouth
+169,Ford,Wastall,Male,Red squirrel
+170,Joyous,Habden,Female,Black-tailed tree creeper
+171,Sheelah,Yandell,Female,"Ringtail, common"
+172,Paolo,Filipovic,Male,"Magpie, australian"
+173,Katharine,Howbrook,Female,"Puffin, horned"
+174,Addi,Cundey,Female,Numbat
+175,Xenos,Deschelle,Male,Caracara (unidentified)
+176,Garey,Hurch,Male,"Lion, steller sea"
+177,Case,McConaghy,Male,Burrowing owl
+178,Fabiano,De Filippi,Male,Guerza
+179,Orelee,Brea,Female,Small-clawed otter
+180,Ive,Roscamps,Male,"Bird, magnificent frigate"
+181,Kasper,Loughan,Male,Secretary bird
+182,Adina,de Najera,Female,Cobra (unidentified)
+183,Dory,Giovannilli,Female,Pampa gray fox
+184,Ealasaid,Raxworthy,Female,Brush-tailed rat kangaroo
+185,Jessie,Robertshaw,Male,African polecat
+186,Dierdre,Fewless,Female,"Crane, black-crowned"
+187,Gerladina,Gatley,Female,"Ox, musk"
+188,Harley,Lardier,Female,Two-toed tree sloth
+189,Mead,Yanshonok,Female,"Sloth, pale-throated three-toed"
+190,Darill,Gunby,Male,Rose-ringed parakeet
+191,Smith,Allso,Male,Springbuck
+192,Franky,Manz,Female,"Cobra, egyptian"
+193,Lorinda,Rohlfing,Female,"Monkey, black spider"
+194,Kaia,Harvie,Female,Gelada baboon
+195,Everard,Meaddowcroft,Male,"Eland, common"
+196,Tammara,Earry,Female,Laughing kookaburra
+197,Les,Steven,Male,Richardson's ground squirrel
+198,Elianora,McIan,Female,Purple grenadier
+199,Johnny,Everwin,Male,"Tortoise, galapagos"
+200,Ekaterina,Goold,Female,"Lapwing, southern"
+201,Kristofer,Streeting,Male,Koala
+202,Pablo,Stayt,Male,White-faced tree rat
+203,Neville,Northway,Male,Urial
+204,Tallia,Bourner,Female,"Jackal, silver-backed"
+205,Ferris,Giacobelli,Male,Australian magpie
+206,Cash,Hardwidge,Male,American racer
+207,Sigmund,Kuhnke,Male,South American meadowlark (unidentified)
+208,Terra,Johl,Female,"Tern, white-winged"
+209,Dennie,Bortolotti,Female,Cheetah
+210,Reyna,Prene,Female,Galapagos dove
+211,Vina,Reddecliffe,Female,Asian water buffalo
+212,Kay,Samet,Female,"Quoll, spotted-tailed"
+213,Angelika,Dowsing,Female,"Bleu, red-cheeked cordon"
+214,Montague,Halling,Male,Sociable weaver
+215,Cirstoforo,Fardell,Male,"Sloth, hoffman's"
+216,Florina,Ferrillio,Female,"Wagtail, african pied"
+217,Di,Whytock,Female,Coqui francolin
+218,Mose,Crippen,Male,"Buffalo, african"
+219,Wendell,Munford,Male,"Bison, american"
+220,Morly,Vidler,Male,"Buffalo, wild water"
+221,Hammad,Deal,Male,"Bat, little brown"
+222,Eugene,Zorzutti,Male,Gambel's quail
+223,Brigitta,Bonanno,Female,"Boa, columbian rainbow"
+224,Eduino,Renfield,Male,"Snake, carpet"
+225,Mitchell,Gong,Male,Cape wild cat
+226,Sumner,Stogill,Male,"Possum, common brushtail"
+227,Rebekah,Collumbine,Female,Great skua
+228,Thibaud,Wardhaugh,Male,"Weaver, chestnut"
+229,Brande,Blacksell,Female,Sambar
+230,Ichabod,Cossington,Male,Tokay gecko
+231,Lindie,Wylam,Female,Asian foreset tortoise
+232,Vidovic,O'Clery,Male,Llama
+233,Jewelle,Tuther,Female,American buffalo
+234,Paolo,Petrazzi,Male,"Stork, jabiru"
+235,Gracia,Sawrey,Female,Galah
+236,Darleen,Mandrier,Female,"Cat, jungle"
+237,Shelley,Bathersby,Male,"Pie, indian tree"
+238,Shelbi,Selborne,Female,Desert spiny lizard
+239,Lamar,Bladge,Male,American beaver
+240,Brietta,Osgodby,Female,"Booby, blue-footed"
+241,Baillie,Hooks,Male,"Civet, common palm"
+242,Valery,Elia,Female,Red-tailed wambenger
+243,Wileen,Beckham,Female,American buffalo
+244,Madelina,Caunter,Female,Woolly-necked stork
+245,Jacinda,Jozefczak,Female,Bohor reedbuck
+246,Valerie,Cantera,Female,"Fox, bat-eared"
+247,Berta,Najera,Female,"Falcon, prairie"
+248,Benjamin,Searsby,Male,"Dolphin, striped"
+249,Vance,Geroldini,Male,Eurasian badger
+250,Aldrich,MacCosto,Male,Nile crocodile
+251,Lenette,Tisor,Female,Curve-billed thrasher
+252,Arlen,Jiggens,Male,Savannah deer (unidentified)
+253,Minerva,Snowman,Female,Tayra
+254,Donalt,Treske,Male,"Cardinal, black-throated"
+255,Anallese,Reddel,Female,Ovenbird
+256,Sheppard,Franchyonok,Male,Eastern white pelican
+257,Anallise,Nolda,Female,"Turkey, australian brush"
+258,Fay,Ziemen,Female,Cormorant (unidentified)
+259,Lon,Totterdell,Male,Cottonmouth
+260,Donavon,Scholard,Male,Herring gull
+261,Stillmann,Fechnie,Male,"Bleu, blue-breasted cordon"
+262,Ty,Pasterfield,Male,Lava gull
+263,Crysta,Richt,Female,Green-backed heron
+264,Elden,Levey,Male,"Pheasant, ring-necked"
+265,Nessie,M'Chirrie,Female,"Snake, racer"
+266,Gawen,Heffernon,Male,Old world fruit bat (unidentified)
+267,Shayne,Maffucci,Female,"Wallaby, bennett's"
+268,Emily,Kerrod,Female,"Macaque, japanese"
+269,Bil,Lambrook,Male,"Lizard, giant girdled"
+270,Denice,Olenchenko,Female,European shelduck
+271,Mercy,Wyndham,Female,"Thrasher, curve-billed"
+272,Issiah,Greenman,Male,Wattled crane
+273,Layne,Millan,Female,"Lorikeet, scaly-breasted"
+274,Hazlett,Bendson,Male,"Egret, great"
+275,Dalenna,Grim,Female,"Macaque, pig-tailed"
+276,Gael,Idiens,Female,"Woodpecker, red-headed"
+277,Mirilla,Klimpke,Female,"Wallaby, whip-tailed"
+278,Ruperto,Harsum,Male,"Francolin, swainson's"
+279,Royall,Scraney,Male,Small Indian mongoose
+280,Packston,Dennidge,Male,Bent-toed gecko
+281,Danyelle,Petrovsky,Female,Guerza
+282,Leonidas,Keggin,Male,Common pheasant
+283,Orelie,Toffts,Female,Blue and yellow macaw
+284,Oby,Voller,Male,Kelp gull
+285,Godfree,Maloney,Male,"Heron, green-backed"
+286,Thane,Brunstan,Male,European badger
+287,Yolanthe,Sirrell,Female,American alligator
+288,Claus,Shelley,Male,Southern black-backed gull
+289,Edward,Ironside,Male,Black and white colobus
+290,Jolyn,Fawson,Female,Onager
+291,Alverta,Cotgrave,Female,"Starfish, crown of thorns"
+292,Blondelle,Paddon,Female,White rhinoceros
+293,Corina,Kiljan,Female,"Magpie, australian"
+294,Madalena,Yeardley,Female,Malachite kingfisher
+295,Vick,Tweedie,Male,"Sifaka, verreaux's"
+296,Parsifal,Mallett,Male,"Moccasin, water"
+297,Teodoor,Vatini,Male,"Boa, columbian rainbow"
+298,Gregor,Haxley,Male,"Teal, hottentot"
+299,Nevil,Sigg,Male,"Flicker, field"
+300,Perren,Shillabeare,Male,"Tern, white-winged"
+301,Roxana,Frawley,Female,Tayra
+302,Gardner,Gayler,Male,Small Indian mongoose
+303,Abe,McGenn,Male,Blue racer
+304,Humfried,Hofler,Male,"Shelduck, european"
+305,Barri,Moulson,Male,"Squirrel, african bush"
+306,Justin,Toyne,Male,Indian mynah
+307,Sena,Bibey,Female,"Buffalo, asian water"
+308,Angelika,Gaskoin,Female,"Gazelle, thomson's"
+309,Helli,Domoni,Female,Sportive lemur
+310,Sheree,Schonfeld,Female,Feathertail glider
+311,Ileana,Anthoney,Female,Tokay gecko
+312,Sol,Castan,Male,"Flamingo, lesser"
+313,Stevie,Sinott,Male,"Tern, royal"
+314,Gabriel,Jeaycock,Female,"Booby, masked"
+315,Lenka,Cordet,Female,Barrows goldeneye
+316,Fidelity,Biddiss,Female,"Grebe, little"
+317,Logan,Simeonov,Male,White-headed vulture
+318,Gertrudis,Jobling,Female,"Zorro, azara's"
+319,Adel,Rosel,Female,Red meerkat
+320,Corey,Fenner,Male,Indian mynah
+321,Jody,Saxton,Female,Woodchuck
+322,Silvia,Lowrie,Female,Ocelot
+323,Meris,Threlfall,Female,Cape starling
+324,Padraic,Robley,Male,"Lion, mountain"
+325,Mignonne,Donan,Female,American beaver
+326,Anne-corinne,Manston,Female,"Owl, australian masked"
+327,Joyann,Weedenburg,Female,"Dragon, frilled"
+328,Candie,Boig,Female,"Rattlesnake, eastern diamondback"
+329,Pippy,Tessier,Female,Snake (unidentified)
+330,Celesta,Deans,Female,"Oryx, beisa"
+331,Shannon,Schiesterl,Male,Spotted wood sandpiper
+332,Katha,Behr,Female,"Lion, california sea"
+333,Adolph,Van den Broek,Male,European red squirrel
+334,Karalee,Panchen,Female,"Goose, spur-winged"
+335,Pat,Canellas,Female,Laughing kookaburra
+336,Corabelle,Goodluck,Female,Blue duck
+337,Gretchen,Willoughey,Female,Sun gazer
+338,Curtice,Stenner,Male,Yellow-bellied marmot
+339,Darcee,Pick,Female,Grey-footed squirrel
+340,Homerus,Hatcliffe,Male,Rose-ringed parakeet
+341,Deonne,Darnbrook,Female,"Dove, ring"
+342,Wolfie,Pring,Male,"Squirrel, nelson ground"
+343,Sophie,Duncanson,Female,"Lizard, goanna"
+344,Haslett,Shalders,Male,Tammar wallaby
+345,Elwira,Walder,Female,"Coot, red-knobbed"
+346,Wrennie,Roark,Female,Crested bunting
+347,Ansel,English,Male,Hottentot teal
+348,Caprice,Demageard,Female,Blue fox
+349,Katherina,Talby,Female,"Coatimundi, white-nosed"
+350,Roddie,Looby,Male,White-throated monitor
+351,Broddie,Stoffler,Male,Striated heron
+352,Diego,Sturges,Male,"Bird, secretary"
+353,Didi,Borthram,Female,Yellow-billed hornbill
+354,Astrid,Lile,Female,"Gnu, brindled"
+355,Hershel,Spellard,Male,"Robin, white-throated"
+356,Abel,Churn,Male,Eastern cottontail rabbit
+357,Patric,Raubheim,Male,Manatee
+358,Purcell,Vinson,Male,Black-crowned crane
+359,Astrid,Sabatini,Female,"Pie, rufous tree"
+360,Gallard,Jaycock,Male,"Beaver, north american"
+361,Alvis,Beresfore,Male,"Starling, cape"
+362,Pren,Kail,Male,"Francolin, coqui"
+363,Elyssa,Scrimshaw,Female,Buttermilk snake
+364,Trevar,Terry,Male,"Tern, white-winged black"
+365,Tilly,Niset,Female,Red meerkat
+366,Vonnie,McEvilly,Female,"Beaver, eurasian"
+367,Luther,Box,Male,"Hyena, striped"
+368,Julio,Hairsine,Male,Jungle cat
+369,Dyanna,Somerton,Female,"Jaeger, long-tailed"
+370,Charyl,Lowrance,Female,"Armadillo, seven-banded"
+371,Vitia,Snasel,Female,"Eagle, crowned"
+372,Laraine,Standbrook,Female,"Gecko, tokay"
+373,Anselma,Dowgill,Female,"Lizard, collared"
+374,Carlotta,Stafford,Female,African ground squirrel (unidentified)
+375,Korella,Kalinsky,Female,Bushbuck
+376,Amalie,Bigmore,Female,"Tortoise, galapagos"
+377,Shannon,Benoy,Female,Blue crane
+378,Tedie,Hutcheon,Male,Moose
+379,Shanta,Doerling,Female,Manatee
+380,Daisie,De Lacey,Female,"Shrew, mandras tree"
+381,Irita,Lovelace,Female,Prehensile-tailed porcupine
+382,Randi,Quenby,Male,"Seal, common"
+383,Nickolai,Le Fleming,Male,"Plover, three-banded"
+384,Ginny,Kinnear,Female,Orca
+385,Agnes,Benoiton,Female,Pygmy possum
+386,Edithe,Iacovolo,Female,Red-breasted nuthatch
+387,Brooke,Mellody,Female,"Lion, mountain"
+388,Aurora,Dewerson,Female,"Pigeon, feral rock"
+389,Tobiah,Poultney,Male,Openbill stork
+390,Carroll,Dyne,Male,"Bison, american"
+391,Osborne,Dabel,Male,"Caracara, yellow-headed"
+392,Shandeigh,Raun,Female,"Buffalo, asian water"
+393,Moises,Robelet,Male,Long-finned pilot whale
+394,Edmon,Linnock,Male,Southern sea lion
+395,Sherlocke,Daenen,Male,"Stork, yellow-billed"
+396,Mignonne,Badsey,Female,"Blackbird, red-winged"
+397,Tanner,Cornford,Male,Red-capped cardinal
+398,Ham,Iveson,Male,Columbian rainbow boa
+399,Ruddie,Yarrow,Male,"Tapir, brazilian"
+400,Reinhold,Newlove,Male,African elephant
+401,Atalanta,Hallwood,Female,Chuckwalla
+402,Aimil,Kropach,Female,Egyptian vulture
+403,Dorothee,Joiris,Female,Eastern box turtle
+404,Orbadiah,Hacket,Male,"Robin, white-throated"
+405,Evy,Northeast,Female,"Tern, white-winged black"
+406,Kippar,Loftin,Male,Puna ibis
+407,Caresse,Rambaut,Female,"Deer, red"
+408,Reggis,Jeens,Male,"Macaque, japanese"
+409,Kayle,Scullion,Female,"Sparrow, rufous-collared"
+410,Jaquelin,Le Batteur,Female,Red-billed buffalo weaver
+411,Whit,Bullock,Male,"Bee-eater, white-fronted"
+412,Evin,Lynett,Male,African darter
+413,Gussie,Romayne,Female,"Monitor, water"
+414,Darb,Dudlestone,Female,"Spider, wolf"
+415,Berthe,Shales,Female,Madagascar hawk owl
+416,Iona,Chaudhry,Female,"Fox, blue"
+417,Odo,Georgi,Male,Wood pigeon
+418,Victoir,Wapol,Male,Cape white-eye
+419,Andromache,Rosencwaig,Female,"Dove, little brown"
+420,Jerrie,Hearley,Female,Woodrat (unidentified)
+421,Amandie,Hintze,Female,"Grouse, sage"
+422,Darcy,Linacre,Male,Jaguarundi
+423,Mikey,Filyaev,Male,Marabou stork
+424,Ruy,Keel,Male,Black-collared barbet
+425,Corette,Simonyi,Female,"Cormorant, large"
+426,Kiley,Darton,Female,"Wapiti, elk,"
+427,Dex,Meindl,Male,Common brushtail possum
+428,Hyatt,Carous,Male,Grey-footed squirrel
+429,Lloyd,Troth,Male,Yak
+430,Janeta,Mehew,Female,"Bandicoot, short-nosed"
+431,Darcee,Yaakov,Female,Guerza
+432,Torrey,Tolliday,Male,House crow
+433,Lamar,McGarel,Male,Sloth bear
+434,Neils,Caush,Male,"Vulture, griffon"
+435,Hallsy,Hornig,Male,Little cormorant
+436,Noellyn,Bonin,Female,Emerald green tree boa
+437,Hedwiga,Verriour,Female,Striped skunk
+438,Hallsy,Ashe,Male,"Marshbird, brown and yellow"
+439,Lazarus,Woffinden,Male,White-faced whistling duck
+440,Lizette,Lalley,Female,"Cockatoo, roseate"
+441,Lucho,Stoffers,Male,"Kangaroo, red"
+442,Gaspard,Baskeyfield,Male,"Flycatcher, tyrant"
+443,Bucky,Thaxter,Male,Magistrate black colobus
+444,Westbrooke,Revel,Male,Civet cat
+445,Sergei,Aylott,Male,"Skunk, striped"
+446,Peter,Tames,Male,"Owl, australian masked"
+447,Balduin,Bowerman,Male,Uinta ground squirrel
+448,Madel,Newbury,Female,"Falcon, prairie"
+449,Roddy,Banaszczyk,Male,"Starling, red-shouldered glossy"
+450,Neille,Polden,Female,Crab (unidentified)
+451,Reginald,Devany,Male,Lesser flamingo
+452,Gordan,Nock,Male,Knob-nosed goose
+453,Eadie,McOwen,Female,"Rhea, common"
+454,Fifine,Ewan,Female,"Chipmunk, least"
+455,Thurstan,Veysey,Male,"Jackal, silver-backed"
+456,Jermayne,Dorsey,Male,"Dragonfly, russian"
+457,Willie,Chrstine,Male,"Fox, crab-eating"
+458,Minny,Muddicliffe,Female,Bald eagle
+459,Cherilyn,Winpenny,Female,"Stork, white"
+460,Max,Antoniewicz,Male,"Cat, kaffir"
+461,Mehetabel,Chong,Female,American Virginia opossum
+462,Pepito,O'Sherrin,Male,"Owl, white-browed"
+463,Dierdre,Moynihan,Female,Burmese black mountain tortoise
+464,Merola,Keogh,Female,Greater flamingo
+465,Cherise,Nuttall,Female,"Duck, white-faced whistling"
+466,Marji,Mounfield,Female,"Lemur, brown"
+467,Johny,Phette,Male,Black-footed ferret
+468,Kasey,Jelleman,Female,"Wallaby, agile"
+469,Buiron,Lound,Male,"Snake, carpet"
+470,Scarface,Geal,Male,"Shrike, crimson-breasted"
+471,Demetris,Adne,Male,"Lemming, arctic"
+472,Barb,De Gogay,Female,"Lion, mountain"
+473,Clyve,Marcoolyn,Male,"Sloth, pale-throated three-toed"
+474,Minnnie,Selbach,Female,Galapagos dove
+475,Jonathan,Thomerson,Male,Guanaco
+476,Leoline,Linklater,Female,Pied avocet
+477,Eugene,McKay,Male,Python (unidentified)
+478,Benjy,Gigg,Male,"Cormorant, javanese"
+479,Herta,Heathcote,Female,Three-banded plover
+480,Maxine,Lampel,Female,"Snake, tiger"
+481,Modestine,McPartling,Female,"Goose, canada"
+482,Becka,Cahalan,Female,Pallas's fish eagle
+483,Ernesto,Sher,Male,"Siskin, pine"
+484,Meryl,Bartolic,Male,Swainson's francolin
+485,Madelaine,Millsap,Female,"Crake, african black"
+486,Cass,Besnard,Male,"Stork, woolly-necked"
+487,Vergil,Kittless,Male,Red-necked phalarope
+488,Hillery,Lillecrop,Male,Paca
+489,April,Marrington,Female,Jungle kangaroo
+490,Amalee,Neild,Female,Small-clawed otter
+491,Alyosha,Hearsum,Male,Steenbok
+492,Gav,Cay,Male,"Iguana, marine"
+493,Pinchas,Franks,Male,Spotted deer
+494,Berget,Terrell,Female,"Heron, green-backed"
+495,Melisse,Hamal,Female,"Lark, horned"
+496,Pet,Kilgour,Female,Ringtail
+497,Niles,Phillimore,Male,"Bat, madagascar fruit"
+498,Reena,Naisby,Female,Galapagos hawk
+499,Adiana,Rispen,Female,"Boar, wild"
+500,Nickolaus,MacDonell,Male,African buffalo
+501,Swen,Cymper,Male,Golden brush-tailed possum
+502,Marja,Piddle,Female,Frilled dragon
+503,Gerti,Di Ruggero,Female,Hyrax
+504,Octavius,Egar,Male,"Eagle, crowned"
+505,Yoko,Petracci,Female,Red-knobbed coot
+506,Mile,Comerford,Male,South American meadowlark (unidentified)
+507,Yolande,Chansonnau,Female,"Rat, arboral spiny"
+508,Cora,Rabidge,Female,"Vulture, white-rumped"
+509,Sauncho,Goodswen,Male,Rainbow lory
+510,Gawen,Huddles,Male,"Albatross, waved"
+511,Saunders,Ollie,Male,"Turtle, snake-necked"
+512,Dora,Boleyn,Female,"Gull, herring"
+513,Adlai,Hovey,Male,Malabar squirrel
+514,Balduin,Krugmann,Male,White-throated robin
+515,Brnaba,Yakebovitch,Male,Gray langur
+516,Tabby,Katz,Female,"Swan, trumpeter"
+517,Willie,Dykas,Male,"Mongoose, banded"
+518,Trumaine,Millam,Male,"Squirrel, richardson's ground"
+519,Fidole,Hugonet,Male,Emerald green tree boa
+520,Kippie,Allsup,Male,Elegant crested tinamou
+521,Boris,Blackmore,Male,"Phalarope, red-necked"
+522,Dawna,Sheaber,Female,"Duiker, common"
+523,Ertha,Greenough,Female,Sugar glider
+524,Meriel,Gypps,Female,Pied cormorant
+525,Anabel,MacTavish,Female,"Shrike, crimson-breasted"
+526,Igor,Haithwaite,Male,"Eagle, pallas's fish"
+527,Brigitta,Slewcock,Female,Galapagos tortoise
+528,Heida,Broggio,Female,Sidewinder
+529,Roberto,Harmes,Male,"Crane, brolga"
+530,Barr,Watkinson,Male,"Bison, american"
+531,Cris,Huish,Male,Common langur
+532,Marcy,Gogan,Female,White-winged black tern
+533,Anna,Bridges,Female,Giant anteater
+534,Colleen,Murfin,Female,"Waxbill, black-cheeked"
+535,Elnar,Houldin,Male,"Otter, canadian river"
+536,Nellie,Smullin,Female,"Ibis, puna"
+537,Ax,Symon,Male,"Phalarope, grey"
+538,Porter,Hagley,Male,Gemsbok
+539,Bastien,Geffen,Male,Swamp deer
+540,Kiah,Duckitt,Female,Glossy starling (unidentified)
+541,Ashbey,Dyet,Male,Seven-banded armadillo
+542,Retha,Craigheid,Female,Bird (unidentified)
+543,Ayn,Shepeard,Female,"Squirrel, richardson's ground"
+544,Alberta,Rawls,Female,"Crane, sarus"
+545,Ilaire,Trewett,Male,"Flamingo, greater"
+546,Shanie,Rennock,Female,"Bird, pied butcher"
+547,Thacher,Botterill,Male,American alligator
+548,Kris,Proctor,Female,Gaur
+549,Fransisco,Sollner,Male,"Sparrow, rufous-collared"
+550,Dulcie,Shipton,Female,"Seal, harbor"
+551,Ransom,Lethardy,Male,Egyptian goose
+552,Selina,Camellini,Female,Mocking cliffchat
+553,Brod,Itskovitz,Male,"Avocet, pied"
+554,Esra,Brickner,Male,Hippopotamus
+555,Yvor,Disbury,Male,"Dog, african wild"
+556,Dougie,Cathie,Male,"Frogmouth, tawny"
+557,Ugo,Croyden,Male,Yellow-necked spurfowl
+558,Lyon,Guyan,Male,American bighorn sheep
+559,Helen-elizabeth,Bukac,Female,Malagasy ground boa
+560,Gris,Burder,Male,"Screamer, southern"
+561,Inigo,Simounet,Male,Gray duiker
+562,Veriee,Joberne,Female,Black-crowned crane
+563,Deane,Whyberd,Female,"Badger, honey"
+564,Federica,McAteer,Female,"Rattlesnake, dusky"
+565,Leoline,Renshell,Female,Dassie
+566,Rodge,Pummell,Male,Silver gull
+567,Min,Chamberlen,Female,Radiated tortoise
+568,Dietrich,Friary,Male,White-browed sparrow weaver
+569,Clifford,Stallebrass,Male,"Snake, carpet"
+570,Ennis,Zohrer,Male,"Hare, arctic"
+571,Virginia,Wooland,Female,"Tortoise, desert"
+572,Freemon,Shatliffe,Male,"Raccoon, crab-eating"
+573,Michell,Paolozzi,Female,Woodrat (unidentified)
+574,Morgen,Liell,Female,Crowned hawk-eagle
+575,Claudius,Alywin,Male,Dingo
+576,Omar,Maffione,Male,Orca
+577,Linell,Ridsdell,Female,"Squirrel, malabar"
+578,Raviv,Mulvihill,Male,"Glider, feathertail"
+579,Bernardo,Pitson,Male,"Lynx, african"
+580,Madlin,Duigenan,Female,Hippopotamus
+581,Yance,Poad,Male,Orca
+582,Mia,Clemenceau,Female,Gelada baboon
+583,Antoinette,Bras,Female,Steenbuck
+584,Phebe,Heatlie,Female,"Oryx, beisa"
+585,Madelyn,McGonagle,Female,"Skua, long-tailed"
+586,Byron,Fewkes,Male,"Shrike, southern white-crowned"
+587,Jareb,Boal,Male,Steenbuck
+588,Thomasine,Pochin,Female,"Dragonfly, russian"
+589,Franky,Murrock,Male,"Kiskadee, great"
+590,Andrei,Mcettrick,Female,"Heron, boat-billed"
+591,Robinson,Beck,Male,Azara's zorro
+592,Kirsteni,Oloshkin,Female,"Gecko, ring-tailed"
+593,Kakalina,Edwardson,Female,"Elk, Wapiti"
+594,Amy,Aspell,Female,Tsessebe
+595,Gilles,O'Henecan,Male,"Shark, blue"
+596,Elston,Dicte,Male,"Sparrow, rufous-collared"
+597,Donalt,Menhci,Male,"Gull, silver"
+598,Sarena,Server,Female,"Stork, woolly-necked"
+599,Melissa,Adcock,Female,American woodcock
+600,Findley,Kersley,Male,"Lion, galapagos sea"
+601,Mirabel,Slad,Female,"Porcupine, indian"
+602,Dorolisa,Smowton,Female,"Gazer, sun"
+603,Bill,Endon,Male,"Dove, galapagos"
+604,Waverly,Lantaff,Male,African pied wagtail
+605,Glory,Brunner,Female,Hudsonian godwit
+606,Norbie,Sturzaker,Male,Black-winged stilt
+607,Saree,Tant,Female,Blacksmith plover
+608,Van,Dionsetto,Male,Egyptian vulture
+609,Xavier,Anderbrugge,Male,"Dove, laughing"
+610,Elmo,Todaro,Male,"Sandgrouse, yellow-throated"
+611,Fina,Bringloe,Female,"Bird, magnificent frigate"
+612,Elyssa,Lakeman,Female,Pied avocet
+613,Ranna,Wibrew,Female,"Francolin, swainson's"
+614,Vincenz,Dimmack,Male,Chital
+615,Lester,Trevan,Male,"Deer, spotted"
+616,Skipper,Coathup,Male,African fish eagle
+617,Sheila-kathryn,Pike,Female,"Stork, european"
+618,Sybila,Haibel,Female,"Beaver, north american"
+619,Cooper,Farey,Male,Saddle-billed stork
+620,Susanna,Adolfson,Female,"Porcupine, crested"
+621,Irv,Espley,Male,Thomson's gazelle
+622,Emmit,de Almeida,Male,Tawny eagle
+623,Bax,Lyfield,Male,Chameleon (unidentified)
+624,Smith,Jarrad,Male,"Fox, asian red"
+625,Tabbatha,Baxandall,Female,Ibex
+626,Morton,Michele,Male,"Stork, woolly-necked"
+627,Cyndia,Vosse,Female,"Lion, california sea"
+628,Valaria,Cobello,Female,"Loris, slender"
+629,Sigismundo,Walwood,Male,Grant's gazelle
+630,Nobe,Shorton,Male,Tokay gecko
+631,Baxter,Worral,Male,"Tarantula, salmon pink bird eater"
+632,Thedric,Decruse,Male,"Eagle, long-crested hawk"
+633,Farlee,Blacket,Male,Javan gold-spotted mongoose
+634,Georges,Valentin,Male,Northern phalarope
+635,George,Siemandl,Male,"Dove, galapagos"
+636,Rozanna,Cowle,Female,"Anteater, giant"
+637,Sabra,Chettle,Female,"Jaeger, long-tailed"
+638,Tamiko,Keele,Female,"Otter, small-clawed"
+639,Beverley,Kegg,Female,Small-spotted genet
+640,Shaylah,Crispe,Female,Emu
+641,Crysta,Trudgeon,Female,Common seal
+642,Jo-ann,Sancraft,Female,Bontebok
+643,Melony,Withams,Female,Rose-ringed parakeet
+644,Jeannie,Kleinsinger,Female,Spotted-tailed quoll
+645,Ky,Ceschelli,Male,"Francolin, coqui"
+646,Dennis,Jeacocke,Male,"Porcupine, tree"
+647,Wallas,Nisbith,Male,"Grenadier, purple"
+648,Cristobal,Nerheny,Male,"Stork, painted"
+649,Brook,Randerson,Male,Royal tern
+650,Tatiana,Oakman,Female,"Cockatoo, long-billed"
+651,Ambur,Worton,Female,"Grebe, little"
+652,Israel,Spikings,Male,Pallas's fish eagle
+653,Roxine,Lavender,Female,Crab-eating raccoon
+654,Gustave,McCarrison,Male,White-nosed coatimundi
+655,Fey,Everist,Female,Black curlew
+656,Ame,Coffee,Female,"Tinamou, elegant crested"
+657,Chandal,Packham,Female,"Hoopoe, eurasian"
+658,Delaney,Larrosa,Male,"Deer, swamp"
+659,Jerrilyn,Woodburne,Female,Common goldeneye
+660,Laural,Whalley,Female,"Ferret, black-footed"
+661,Kaine,Askew,Male,White-browed sparrow weaver
+662,Paulo,Gentil,Male,"Squirrel, eurasian red"
+663,Nari,Olliffe,Female,"Fox, asian red"
+664,Prentice,Reck,Male,"Bustard, kori"
+665,Opalina,Bulluck,Female,"Lorikeet, scaly-breasted"
+666,Nata,Dwyer,Female,Malay squirrel (unidentified)
+667,Melonie,Lutsch,Female,Southern hairy-nosed wombat
+668,Kassandra,Mathewes,Female,"Goose, egyptian"
+669,Calv,Lagen,Male,Gila monster
+670,Doralynne,Biasetti,Female,Long-crested hawk eagle
+671,Gregorius,McGuff,Male,"Bat, madagascar fruit"
+672,Lamond,Goldup,Male,"Squirrel, indian giant"
+673,Randal,Eseler,Male,Red-winged hawk (unidentified)
+674,Rowe,Langcastle,Female,"Jackal, indian"
+675,Paquito,Moseby,Male,African elephant
+676,Zachery,Quillinane,Male,"Pheasant, ring-necked"
+677,Ceciley,Jeduch,Female,Bent-toed gecko
+678,Lorin,Karlik,Male,Red-legged pademelon
+679,Stacie,Rhule,Female,Tiger cat
+680,Madison,Learoid,Male,"Coatimundi, white-nosed"
+681,Ambrose,Swainson,Male,"Monitor, two-banded"
+682,Cornelius,Creak,Male,"Starling, cape"
+683,Hortense,McMonnies,Female,Greylag goose
+684,Erinn,Wiffler,Female,"Spoonbill, european"
+685,Sophey,Syphus,Female,"Heron, giant"
+686,Genvieve,Ashworth,Female,White-winged tern
+687,Humfrey,Fowlston,Male,"Rhinoceros, black"
+688,Vasilis,Gillbey,Male,Gray langur
+689,Eddie,Crippill,Male,"Colobus, black and white"
+690,Kevan,Westwater,Male,"Jackal, black-backed"
+691,Gussie,Hacksby,Female,Black curlew
+692,Reamonn,Etoile,Male,"Gull, pacific"
+693,Otis,Derrick,Male,Cheetah
+694,Katuscha,Crayden,Female,Rhesus monkey
+695,Linn,Saberton,Male,"Cat, toddy"
+696,Hewe,Casarini,Male,Tasmanian devil
+697,Margalit,Jantot,Female,Impala
+698,Estelle,Craigie,Female,Moose
+699,Teddy,Findon,Female,"Glider, sugar"
+700,Correy,Sowte,Male,"Zorro, azara's"
+701,Holly,Letty,Female,"Gecko, ring-tailed"
+702,Shelby,Flawith,Male,Sockeye salmon
+703,Harmonia,Tiebe,Female,"Catfish, blue"
+704,Theda,Luxford,Female,"Shark, blue"
+705,Iorgos,Lenormand,Male,Tasmanian devil
+706,Pail,Samber,Male,"Badger, eurasian"
+707,Eugenia,Vanne,Female,Burmese brown mountain tortoise
+708,Aurore,Jonczyk,Female,Orca
+709,Alyssa,Domniney,Female,Woylie
+710,Fidel,Farncombe,Male,"Egret, snowy"
+711,Caryl,O'Meara,Female,"Iguana, land"
+712,Arlen,Willett,Male,"Pie, rufous tree"
+713,Alberik,Osmint,Male,"Hornbill, yellow-billed"
+714,Eilis,Knowlman,Female,Common palm civet
+715,Garrick,Moncur,Male,"Wallaby, tammar"
+716,Lawry,Mapam,Male,Ornate rock dragon
+717,Gae,Gersam,Female,Coqui francolin
+718,Irwinn,Birks,Male,Agile wallaby
+719,Gabriela,Pyle,Female,Lilac-breasted roller
+720,Yevette,Aldred,Female,Sulfur-crested cockatoo
+721,Woody,Bowler,Male,"Sandgrouse, yellow-throated"
+722,Leena,Syratt,Female,Margay
+723,Lena,Palffy,Female,White-tailed deer
+724,Aurlie,Zeal,Female,"Rhinoceros, white"
+725,Alfy,Hrinchishin,Male,"Possum, common brushtail"
+726,Alma,Lufkin,Female,Galapagos penguin
+727,Ignaz,Clark,Male,"Sparrow, house"
+728,Maxy,Archambault,Male,"Kangaroo, western grey"
+729,Elnora,Sergant,Female,Short-nosed bandicoot
+730,Harmonie,Serrell,Female,Feathertail glider
+731,Daryn,Sedgemond,Female,Ground legaan
+732,Maryl,Kirkpatrick,Female,Eastern cottontail rabbit
+733,Ardelis,Dugmore,Female,"Lion, mountain"
+734,Joscelin,Jepps,Female,"Dragon, western bearded"
+735,Aurelea,Clelland,Female,Eastern cottontail rabbit
+736,Tillie,Baroux,Female,"Rattlesnake, horned"
+737,Van,O'Canavan,Male,"Kingfisher, malachite"
+738,Kanya,Bukac,Female,Cape clawless otter
+739,Nessy,Adame,Female,African snake (unidentified)
+740,Timothee,Elfe,Male,Rainbow lory
+741,Martina,Taplin,Female,"Monkey, red howler"
+742,Nonnah,Whitefoot,Female,"Dog, bush"
+743,Teodora,Jarret,Female,Canadian tiger swallowtail butterfly
+744,Eberhard,Hawksby,Male,"Beaver, eurasian"
+745,Dalt,Tigner,Male,Ring-tailed gecko
+746,Rube,Desaur,Male,African wild dog
+747,Augustus,Baulk,Male,Long-nosed bandicoot
+748,Wayland,Mackro,Male,Yak
+749,Tuesday,Drohan,Female,Old world fruit bat (unidentified)
+750,Ashien,Gasparro,Female,"Toucan, red-billed"
+751,Carmita,Rubinovitch,Female,Southern right whale
+752,Eleonore,Ackerley,Female,Malay squirrel (unidentified)
+753,Leland,Blaxlande,Male,Southern boubou
+754,Carlen,Cremer,Female,Malay squirrel (unidentified)
+755,Allina,Brooksbie,Female,Yellow-headed caracara
+756,Sheffield,Carren,Male,"Jaeger, long-tailed"
+757,Christoper,Mavin,Male,Bonnet macaque
+758,Shandee,Riolfo,Female,Whip-tailed wallaby
+759,Sibby,Joddens,Female,"Gull, pacific"
+760,Annmaria,Olivo,Female,"Vulture, king"
+761,Jens,Jennery,Male,African polecat
+762,Tracie,Perel,Male,"Heron, giant"
+763,Sigismond,Fargher,Male,"Cat, kaffir"
+764,Cozmo,Robuchon,Male,"Rhinoceros, black"
+765,Aeriela,Mc Ilory,Female,Sage grouse
+766,Laurens,Lincoln,Male,"Penguin, fairy"
+767,Janis,Comerford,Female,"Tortoise, desert"
+768,Thatcher,Bladder,Male,Southern ground hornbill
+769,Derk,Zohrer,Male,"Possum, western pygmy"
+770,Wyn,Guilloux,Male,"Gull, kelp"
+771,Broddie,Wallbrook,Male,Ferruginous hawk
+772,Gun,Glassborow,Male,Bush dog
+773,Bordie,Labell,Male,"Partridge, coqui"
+774,Nolan,Harsent,Male,Thomson's gazelle
+775,Barde,Marcroft,Male,Jungle cat
+776,Virgina,Minto,Female,Gray langur
+777,Reuben,Trussman,Male,"Skink, african"
+778,Nelli,Fauning,Female,"Shrike, common boubou"
+779,Jonah,Schoular,Male,Springbuck
+780,Hurlee,Benyan,Male,Pied crow
+781,Isidora,Geerling,Female,Whip-tailed wallaby
+782,Goddard,Pashba,Male,"Deer, red"
+783,Fiona,Domeny,Female,Common turkey
+784,Austin,Millar,Male,"Roller, lilac-breasted"
+785,Stanleigh,Charge,Male,Mountain goat
+786,Andrej,Esseby,Male,Egyptian cobra
+787,Jerrine,Bertolin,Female,"Stork, jabiru"
+788,Corabel,Facer,Female,"Anteater, giant"
+789,Base,Huller,Male,"Francolin, swainson's"
+790,Rudolph,Conahy,Male,"Goose, cape barren"
+791,Richie,Amsberger,Male,"Lizard, collared"
+792,Monika,Colleran,Female,Hoary marmot
+793,Melloney,Vynehall,Female,"Mongoose, javan gold-spotted"
+794,Dmitri,Rapp,Male,White-throated toucan
+795,Ethelred,Keune,Male,"Penguin, little blue"
+796,Braden,Crocken,Male,Silver gull
+797,Paxon,Lapsley,Male,Swallow (unidentified)
+798,Elias,Apedaile,Male,"Eagle, bald"
+799,Rouvin,Kegley,Male,"Cat, european wild"
+800,Laural,Disney,Female,"Vulture, egyptian"
+801,Rebecka,Cracknall,Female,Pine snake (unidentified)
+802,Filmore,Jeram,Male,"Deer, mule"
+803,Fraser,Dunnico,Male,European beaver
+804,Dory,Antonellini,Male,"Wallaby, whip-tailed"
+805,Duffy,Gantzer,Male,"Hen, sage"
+806,Lezley,O'Regan,Male,"Bulbul, black-eyed"
+807,Bobby,Knibbs,Male,"Flamingo, roseat"
+808,Waylan,Cusick,Male,Glossy ibis
+809,Niven,Morrott,Male,Palm squirrel
+810,Kelly,Gallaher,Female,Tawny frogmouth
+811,Lorinda,Fulham,Female,Red-tailed wambenger
+812,Jeane,Wickenden,Female,Fork-tailed drongo
+813,Crystal,Whittlesey,Female,Trumpeter swan
+814,Adah,Selly,Female,"Squirrel, eastern fox"
+815,Ludvig,Pincked,Male,African lynx
+816,Franny,Reilly,Male,Common wombat
+817,Vi,Alders,Female,Large-eared bushbaby
+818,Carlos,Ruckhard,Male,Steenbok
+819,Ariana,Goshawke,Female,Steenbuck
+820,Tremayne,Perotti,Male,White-winged tern
+821,Phyllys,Fetherby,Female,Indian star tortoise
+822,Christin,Greenley,Female,"Antelope, four-horned"
+823,Daniella,Carberry,Female,"Cat, kaffir"
+824,Clayborne,Trowler,Male,Red howler monkey
+825,Leonidas,Crothers,Male,Springbok
+826,Vinita,Walshe,Female,Hummingbird (unidentified)
+827,Mella,Glandfield,Female,Laughing kookaburra
+828,Jesselyn,Olin,Female,"Grouse, sage"
+829,Kristan,Hunn,Female,Yellow-rumped siskin
+830,Willdon,Cuppitt,Male,"Heron, striated"
+831,Malinde,Hallum,Female,Hottentot teal
+832,Monroe,Hyrons,Male,"Whale, long-finned pilot"
+833,Norina,Yirrell,Female,Frog (unidentified)
+834,Kissiah,Szabo,Female,"Colobus, magistrate black"
+835,Cos,Paddison,Male,Stanley crane
+836,Kristos,Bampfield,Male,Great egret
+837,Nathanael,McKern,Male,"Waterbuck, common"
+838,Evvy,Lecointe,Female,Eastern grey kangaroo
+839,Gerri,Redish,Female,Chimpanzee
+840,Leela,Riatt,Female,Western pygmy possum
+841,Maiga,Teesdale,Female,Orca
+842,Ariella,Crann,Female,Savannah deer
+843,Francisco,Skacel,Male,"Waxbill, violet-eared"
+844,Skye,Struthers,Male,Southern elephant seal
+845,Kirbie,Markos,Female,Brown capuchin
+846,Jemie,Banthorpe,Female,"Crake, african black"
+847,Filberto,Seemmonds,Male,Striped hyena
+848,Janot,Hallyburton,Female,Pocket gopher (unidentified)
+849,Ashley,Ridout,Male,River wallaby
+850,Al,Sandcraft,Male,"Mynah, indian"
+851,Herbert,Rassell,Male,Gulls (unidentified)
+852,Berti,Kinge,Male,Ring-necked pheasant
+853,Vic,Culpen,Male,Jungle cat
+854,Hattie,Dibdall,Female,Bottle-nose dolphin
+855,Sidney,Clinning,Male,"Mynah, common"
+856,Launce,Hassey,Male,Red-winged blackbird
+857,Rosita,Odo,Female,Columbian rainbow boa
+858,Tanny,Mertgen,Male,"Waxbill, black-cheeked"
+859,Tawnya,Proback,Female,Pampa gray fox
+860,Debbi,Shorthouse,Female,Warthog
+861,Lionello,MacGilfoyle,Male,Adouri (unidentified)
+862,Debera,Tuxell,Female,"Macaque, rhesus"
+863,Rollins,Groundwator,Male,"Lark, horned"
+864,Clair,Bauldrey,Female,"Lynx, african"
+865,Angel,Augar,Male,"Otter, oriental short-clawed"
+866,Wallache,Bacon,Male,"Mongoose, javan gold-spotted"
+867,Alain,Laister,Male,"Quoll, eastern"
+868,Alan,Brahm,Male,Paddy heron (unidentified)
+869,Vincents,Lammertz,Male,Black curlew
+870,Mozelle,Jeannesson,Female,"Trumpeter, dark-winged"
+871,Ike,Matteotti,Male,Yellow-rumped siskin
+872,Valentin,Pestell,Male,"Heron, boat-billed"
+873,Obidiah,Cowlard,Male,"Monkey, bleeding heart"
+874,Giacomo,De Beauchamp,Male,Snake (unidentified)
+875,Anabella,Stevani,Female,Swainson's francolin
+876,Margeaux,Pilmer,Female,Square-lipped rhinoceros
+877,Esther,Inwood,Female,Red-winged blackbird
+878,Mordecai,Hollidge,Male,"Raven, cape"
+879,Curcio,Toe,Male,"Bear, american black"
+880,Ollie,Advani,Male,Land iguana
+881,Alistair,Labbett,Male,Spotted deer
+882,Evy,Meriott,Female,"Goose, cape barren"
+883,Shurlock,Caso,Male,Arctic fox
+884,Nye,Yoxall,Male,Black-footed ferret
+885,Christiana,Heffer,Female,Common wallaroo
+886,Manny,Houlton,Male,Cormorant (unidentified)
+887,Rorke,Kingdom,Male,Aardwolf
+888,Hannis,Kilbane,Female,"Vulture, white-headed"
+889,Kenon,Fishe,Male,"Jackal, indian"
+890,Rosalinda,Askell,Female,Northern elephant seal
+891,Bondy,Seadon,Male,Frilled dragon
+892,Vinny,Hylands,Male,"Dragon, netted rock"
+893,Philis,Carl,Female,Common raccoon
+894,Reider,Boyde,Male,"Eagle, bateleur"
+895,Edgardo,Bollen,Male,Three-banded plover
+896,Benni,Voce,Female,Zorilla
+897,Martita,Banasiak,Female,Long-nosed bandicoot
+898,Charmian,Fosdick,Female,"Mockingbird, galapagos"
+899,Marijn,Cragg,Male,"Quail, gambel's"
+900,Fredrick,Andriss,Male,Oribi
+901,Loren,Haythornthwaite,Male,"Possum, golden brush-tailed"
+902,Alexandra,Brewood,Female,"Swan, black"
+903,Kenon,Lissenden,Male,"Glider, squirrel"
+904,Flora,Rainy,Female,Crowned eagle
+905,Nat,Armal,Male,"Brocket, red"
+906,Barney,Franklin,Male,"Rabbit, eastern cottontail"
+907,Fanchette,Wailes,Female,Beisa oryx
+908,Desmond,Brounsell,Male,"Gazelle, thomson's"
+909,Hamlin,M'Quharg,Male,Western grey kangaroo
+910,Kalil,Witnall,Male,"Monitor, water"
+911,Orelia,Schowenburg,Female,"Cormorant, pied"
+912,Allie,Faunch,Female,Columbian rainbow boa
+913,Findley,Camilleri,Male,Least chipmunk
+914,Jobyna,Kirvin,Female,Mountain duck
+915,Brig,Dugdale,Male,"Snake, racer"
+916,Heinrick,Peer,Male,Desert tortoise
+917,Maybelle,Ballach,Female,"Cat, toddy"
+918,Alwin,Aindrais,Male,"Polecat, african"
+919,Arvie,Dhenin,Male,Tsessebe
+920,Royall,Lambotin,Male,"Swan, trumpeter"
+921,Missie,Berrington,Female,"Grouse, sage"
+922,Lorry,Parkes,Female,"Seal, southern elephant"
+923,Gail,Dreier,Male,Guanaco
+924,Barbara-anne,Oppery,Female,"Shrew, mandras tree"
+925,Brigham,Gatcliff,Male,Marabou stork
+926,Gabriella,Nunn,Female,"Goat, mountain"
+927,Lynnet,Kinnach,Female,African jacana
+928,Erie,Laverock,Male,Cuis
+929,Nicola,Kernes,Female,Violet-crested turaco
+930,Dyanna,Gerard,Female,"Beaver, eurasian"
+931,Arni,Ollerton,Male,Red-billed hornbill
+932,Elia,Simonett,Male,"Heron, green"
+933,Celesta,Petricek,Female,Javan gold-spotted mongoose
+934,Josephine,Dommersen,Female,Black-footed ferret
+935,Teodor,Medwell,Male,Common dolphin
+936,Roshelle,Oliphard,Female,"Lizard, desert spiny"
+937,Launce,Rubert,Male,"Godwit, hudsonian"
+938,Minnnie,Scroggins,Female,Canadian tiger swallowtail butterfly
+939,Ammamaria,Milnthorpe,Female,"Booby, masked"
+940,Stanley,Pinar,Male,"Wagtail, african pied"
+941,Kinna,Rainey,Female,American Virginia opossum
+942,Anissa,Proughten,Female,Green vine snake
+943,Conchita,Vigours,Female,Grey heron
+944,Lennie,Blanking,Male,"Pie, indian tree"
+945,Dianna,Croxall,Female,"Spurfowl, yellow-necked"
+946,Theodoric,Micklewicz,Male,Canada goose
+947,Diana,Votier,Female,Brush-tailed bettong
+948,Sheeree,Yakubovich,Female,Red-knobbed coot
+949,Georas,Siebart,Male,Potoroo
+950,Jacqueline,Turfitt,Female,Suricate
+951,Leoline,Spennock,Female,Asiatic jackal
+952,Kirbie,Ong,Female,Black-tailed tree creeper
+953,Ezmeralda,Reeders,Female,"Eagle, white-bellied sea"
+954,Hadleigh,Maes,Male,Sun gazer
+955,Edwina,McCory,Female,Spotted-tailed quoll
+956,Toby,Renon,Female,Scarlet macaw
+957,Bethanne,Bussy,Female,"Snake, buttermilk"
+958,Reagan,Baake,Male,"Crow, pied"
+959,Stacey,Ewestace,Female,Red howler monkey
+960,Eartha,Mourant,Female,"Civet, small-toothed palm"
+961,Gusella,Caizley,Female,"Kangaroo, jungle"
+962,Fredi,Bonnin,Female,Bottle-nose dolphin
+963,Jody,Millican,Female,Cape cobra
+964,Nelson,Titlow,Male,Denham's bustard
+965,Demeter,Dobkin,Female,Superb starling
+966,Malachi,Gaul,Male,"Bettong, brush-tailed"
+967,Eugenius,O'Boyle,Male,"Lion, asian"
+968,Elroy,Lebond,Male,"Vulture, griffon"
+969,Klement,Killcross,Male,Ibex
+970,Jourdan,Themann,Female,Pied kingfisher
+971,Alex,Hartill,Female,Red-tailed phascogale
+972,Clint,Hailes,Male,Western pygmy possum
+973,Josiah,Riggoll,Male,"Monkey, vervet"
+974,Basil,Scannell,Male,Seven-banded armadillo
+975,Welbie,Feather,Male,Black-backed jackal
+976,Clemente,Kleinschmidt,Male,Two-banded monitor
+977,Bernadina,Peatt,Female,"Hornbill, leadbeateri's ground"
+978,Myrtice,Cagan,Female,Bottle-nose dolphin
+979,Luis,Heijnen,Male,"Armadillo, common long-nosed"
+980,Jerrie,Phlipon,Male,Toddy cat
+981,Geralda,Wishkar,Female,"Owl, snowy"
+982,Gibby,Bayly,Male,Cheetah
+983,Jessalin,Ackroyd,Female,"Shelduck, european"
+984,Paulie,Frenchum,Male,"Crane, blue"
+985,Lilian,Bruffell,Female,Crowned hawk-eagle
+986,Herbie,Connelly,Male,Emerald green tree boa
+987,Thane,Spiers,Male,"Jackal, indian"
+988,Lu,Forcade,Female,White-throated toucan
+989,Waldemar,Gergher,Male,Eleven-banded armadillo (unidentified)
+990,Teri,Pumfrett,Female,"Rat, arboral spiny"
+991,Bobbi,Fraczkiewicz,Female,"Pintail, white-cheeked"
+992,Barde,Noad,Male,Snowy egret
+993,Shirlee,McFadzean,Female,Black rhinoceros
+994,Munmro,Sussams,Male,Laughing kookaburra
+995,Gaby,Bittleson,Female,"Tortoise, galapagos"
+996,Taryn,Cometson,Female,Eastern fox squirrel
+997,Raviv,Palser,Male,"Vulture, egyptian"
+998,Elga,Briat,Female,Eurasian badger
+999,Fred,O'Drought,Male,"Owl, snowy"
+1000,Ave,Metrick,Male,Brazilian tapir
